@@ -1,0 +1,6 @@
+{
+    "dart.previewHotReloadOnSaveWatcher": true,
+    "dart.flutterHotReloadOnSave": "always",
+    "files.autoSave": "off",
+    "files.autoSaveDelay": 500
+}
